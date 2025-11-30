@@ -36,35 +36,6 @@ Passionate about solving real-world problems, optimizing systems, and learning n
 
 ---
 
-## 🚀 Projects
-
-### 🛍️ **Centro – C2C e-Commerce Platform**
-Built a marketplace system with:
-- Geolocation midpoint algorithm  
-- Cosine-similarity product recommendations  
-- Redis caching for trending products  
-- E-wallet integration  
-**Tech:** DRF, MySQL, Redis, Celery
-
----
-
-### 📊 **Know – Social Media Manager & Sentiment Analyzer**
-- Implemented **BERT** for sentiment classification  
-- Integrated **Twitter(X)** & **LinkedIn APIs** for automated posting  
-- Cron-based task scheduling & analytics  
-**Tech:** DRF, PostgreSQL, NumPy, Pandas, Seaborn, Celery
-
----
-
-### 💊 **DoseDash – Online Pharmacy**
-- Built B2C pharmacy system using Django Templates  
-- Email reminder system with SMTP + Cron  
-- Complete ordering workflow  
-**Tech:** Django Templates, MySQL, Celery, JavaScript
-
----
-
-## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aayush-timalsina-bb2096259/" target="_blank">
